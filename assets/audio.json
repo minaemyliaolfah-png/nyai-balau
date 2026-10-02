@@ -1,0 +1,20 @@
+{
+  "music_title": null,
+  "music_village": null,
+  "music_journey": null,
+  "music_mystery": null,
+  "music_duel": null,
+  "music_resolution": null,
+  "narration_arc2": null,
+  "fx_click": null,
+  "fx_discover": null,
+  "fx_correct": null,
+  "fx_wrong": null,
+  "fx_attack": null,
+  "fx_shield": null,
+  "fx_heal": null,
+  "fx_win": null,
+  "fx_lose": null,
+  "fx_step": null,
+  "fx_page": null
+}
