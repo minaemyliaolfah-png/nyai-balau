@@ -1,0 +1,265 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "anua",
+      "path": "assets/anua.png",
+      "type": "character",
+      "width": 1024,
+      "height": 1536,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "World character and/or character gallery"
+    },
+    {
+      "id": "arena",
+      "path": "assets/arena.png",
+      "type": "background",
+      "width": 1672,
+      "height": 941,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "Location or duel backdrop"
+    },
+    {
+      "id": "camp",
+      "path": "assets/camp.png",
+      "type": "background",
+      "width": 1672,
+      "height": 941,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "Location or duel backdrop"
+    },
+    {
+      "id": "cave",
+      "path": "assets/cave.png",
+      "type": "background",
+      "width": 1672,
+      "height": 941,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "Location or duel backdrop"
+    },
+    {
+      "id": "dragon-cave",
+      "path": "assets/dragon-cave.png",
+      "type": "character",
+      "width": 1536,
+      "height": 1024,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "World character and/or character gallery"
+    },
+    {
+      "id": "dragon-river",
+      "path": "assets/dragon-river.png",
+      "type": "character",
+      "width": 1774,
+      "height": 887,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "World character and/or character gallery"
+    },
+    {
+      "id": "dummy",
+      "path": "assets/dummy.png",
+      "type": "character",
+      "width": 1214,
+      "height": 1296,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "World character and/or character gallery"
+    },
+    {
+      "id": "forest",
+      "path": "assets/forest.png",
+      "type": "background",
+      "width": 1672,
+      "height": 941,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "Location or duel backdrop"
+    },
+    {
+      "id": "gajah",
+      "path": "assets/gajah.png",
+      "type": "character",
+      "width": 1024,
+      "height": 1536,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "World character and/or character gallery"
+    },
+    {
+      "id": "gantang",
+      "path": "assets/gantang.png",
+      "type": "character",
+      "width": 1024,
+      "height": 1536,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "World character and/or character gallery"
+    },
+    {
+      "id": "garden",
+      "path": "assets/garden.png",
+      "type": "background",
+      "width": 1672,
+      "height": 941,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "Location or duel backdrop"
+    },
+    {
+      "id": "home",
+      "path": "assets/home.png",
+      "type": "background",
+      "width": 1672,
+      "height": 941,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "Location or duel backdrop"
+    },
+    {
+      "id": "kancil",
+      "path": "assets/kancil.png",
+      "type": "character",
+      "width": 1536,
+      "height": 1024,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "World character and/or character gallery"
+    },
+    {
+      "id": "lake",
+      "path": "assets/lake.png",
+      "type": "background",
+      "width": 1672,
+      "height": 941,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "Location or duel backdrop"
+    },
+    {
+      "id": "linge",
+      "path": "assets/linge.png",
+      "type": "character",
+      "width": 1024,
+      "height": 1536,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "World character and/or character gallery"
+    },
+    {
+      "id": "lipan",
+      "path": "assets/lipan.png",
+      "type": "character",
+      "width": 1983,
+      "height": 793,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "World character and/or character gallery"
+    },
+    {
+      "id": "nyai",
+      "path": "assets/nyai.png",
+      "type": "character",
+      "width": 1024,
+      "height": 1536,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "World character and/or character gallery"
+    },
+    {
+      "id": "palace-gajah",
+      "path": "assets/palace-gajah.png",
+      "type": "background",
+      "width": 1672,
+      "height": 941,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "Location or duel backdrop"
+    },
+    {
+      "id": "palace",
+      "path": "assets/palace.png",
+      "type": "background",
+      "width": 1672,
+      "height": 941,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "Location or duel backdrop"
+    },
+    {
+      "id": "patung",
+      "path": "assets/patung.png",
+      "type": "prop",
+      "width": 1024,
+      "height": 1536,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "Exploration story object"
+    },
+    {
+      "id": "ring",
+      "path": "assets/ring.png",
+      "type": "prop",
+      "width": 1254,
+      "height": 1254,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "Exploration story object"
+    },
+    {
+      "id": "supak",
+      "path": "assets/supak.png",
+      "type": "character",
+      "width": 1024,
+      "height": 1536,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "World character and/or character gallery"
+    },
+    {
+      "id": "village",
+      "path": "assets/village.png",
+      "type": "background",
+      "width": 1672,
+      "height": 941,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "Location or duel backdrop"
+    },
+    {
+      "id": "world-map",
+      "path": "assets/world-map.png",
+      "type": "background",
+      "width": 1672,
+      "height": 941,
+      "source": "Generated with built-in imagegen for this project, 2026-10-01",
+      "status": "integrated-v1",
+      "usage": "Interactive map"
+    },
+    {
+      "id": "root-sentinel",
+      "path": "assets/root-sentinel.png",
+      "type": "character",
+      "width": 1199,
+      "height": 1312,
+      "source": "Built-in imagegen, 2026-10-01",
+      "status": "integrated-v2",
+      "usage": "Arc 2 fantasy challenge opponent"
+    },
+    {
+      "id": "stone-sentinel",
+      "path": "assets/stone-sentinel.png",
+      "type": "character",
+      "width": 1024,
+      "height": 1536,
+      "source": "Built-in imagegen, 2026-10-01",
+      "status": "integrated-v2",
+      "usage": "Arc 4 fantasy challenge opponent"
+    }
+  ]
+}
